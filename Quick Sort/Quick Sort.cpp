@@ -1,8 +1,8 @@
 
 #include <iostream>
 
-int PartitionFunc(int left, int right, int pivot);
 void QuickSort(int left, int right);
+int PartitionFunc(int left, int right, int pivot);
 void swap(int num1, int num2);
 void ShowData();
 
