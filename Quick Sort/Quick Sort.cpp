@@ -3,8 +3,8 @@
 
 int PartitionFunc(int left, int right, int pivot);
 void QuickSort(int left, int right);
-void ShowData();
 void swap(int num1, int num2);
+void ShowData();
 
 int data[] = { 3,8,9,5,7,4,6,11 };
 int main()
